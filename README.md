@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel Auth<br>👯 I’m looking to collaborate on PenTest<br>🤝 I’m looking for help with Escaping Sandbox without breaking machine<br>🌱 I’m currently learning Kafka<br>💬 Ask me about Linux<br>⚡ Fun fact about me is I love coffee
+🔭 I’m currently working on Machine Leaning<br>👯 I’m looking to collaborate on PenTest<br>🤝 I’m looking for help with Escaping Sandbox without breaking machine<br>🌱 I’m currently learning Kafka<br>💬 Ask me about Linux<br>⚡ Fun fact about me is I love coffee
 
 
 ## 🌐 Socials:
